@@ -444,6 +444,7 @@ img,
     position: relative;
     z-index: 1;
     object-fit: cover;
+    bottom: 0;
   }
   .card .c1 {
     width: 100%;
@@ -493,6 +494,7 @@ img,
     height: auto;
     object-fit: cover;
     border-radius: 12px;
+    bottom: 0;
   }
   .btn-home1, .btn-home2, .btn, .btn-send { width: 100%; text-align: center; }
   .follow ul { flex-wrap: wrap; justify-content: center; gap: 8px; }
