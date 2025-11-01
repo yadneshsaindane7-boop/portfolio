@@ -1,3 +1,4 @@
+![Logo](cp.jpg)
 # Yadnesh Portfolio Showcase 💻
 
 
@@ -81,3 +82,4 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 
 Made with ❤️ by **Yadnesh Saindane**
+
